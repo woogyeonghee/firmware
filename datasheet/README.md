@@ -38,6 +38,8 @@ FRAME sensor
 
 # OUTPUT
 
+neo-pixel
+
 screen controllor : PCF8574T
 
 motor driver : ULN2003
