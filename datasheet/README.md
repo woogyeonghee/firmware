@@ -7,6 +7,8 @@ usb to serial : pl2303
 
 bluetooth : pl2303
 
+wifi : esp8266
+
 
 # INPUT
 
